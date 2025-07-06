@@ -27,3 +27,6 @@ Prediction likely to resolve as YES ✅
 ```
 ![Screenshot from 2025-07-05 20-42-17](https://github.com/user-attachments/assets/de0709f5-9016-435a-a167-48745c4566da)
 
+Future features:
+- frontend architecture
+
