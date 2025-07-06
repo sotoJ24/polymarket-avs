@@ -29,4 +29,5 @@ Prediction likely to resolve as YES ✅
 
 Future features:
 - frontend architecture
+- solid project structure
 
